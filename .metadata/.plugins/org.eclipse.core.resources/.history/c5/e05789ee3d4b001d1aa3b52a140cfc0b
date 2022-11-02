@@ -1,0 +1,5 @@
+package br.org.serratec.exercicioCliente.config;
+
+public class SwaggerConfig {
+
+}

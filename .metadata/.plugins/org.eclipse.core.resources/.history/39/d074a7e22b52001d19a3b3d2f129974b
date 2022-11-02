@@ -1,0 +1,8 @@
+package br.org.serratec.projeto.converter;
+
+import javax.persistence.Converter;
+
+@Converter(autoApply = true)
+public class StatusConverter implements AttributeConverter<, Integer>{
+
+}

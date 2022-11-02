@@ -1,0 +1,5 @@
+package br.org.serratec.backend.servicedto.controller;
+
+public class EnderecoController {
+
+}

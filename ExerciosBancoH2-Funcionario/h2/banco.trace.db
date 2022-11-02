@@ -1,0 +1,78 @@
+2022-10-13 14:49:01 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente  [*]cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro Duarte', 2500.0, 'Manhã', 'RH')"; expected "., (, OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+insert into gerente  cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro Duarte', 2500.0, 'Manhã', 'RH') [42001-214]
+2022-10-13 14:49:29 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente  [*]cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH')"; expected "., (, OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+insert into gerente  cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH') [42001-214]
+2022-10-13 14:49:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente  [*]cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH')"; expected "., (, OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+insert into gerente  cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH') [42001-214]
+2022-10-13 14:49:32 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente  [*]cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH')"; expected "., (, OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+insert into gerente  cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH') [42001-214]
+2022-10-13 14:49:32 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente  [*]cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH')"; expected "., (, OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+insert into gerente  cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH') [42001-214]
+2022-10-13 14:49:32 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente  [*]cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH')"; expected "., (, OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+insert into gerente  cpf nome salario turno setor values ('47455862130', 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH') [42001-214]
+2022-10-13 14:54:04 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]')"; SQL statement:
+insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH') [42000-214]
+2022-10-13 14:54:05 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]')"; SQL statement:
+insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH') [42000-214]
+2022-10-13 14:54:06 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]')"; SQL statement:
+insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH') [42000-214]
+2022-10-13 14:54:24 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:54:25 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:54:26 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+insert into gerente   (cpf, nome, salario, turno, setor) values ('47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:55:18 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente   (id, cpf, nome, salario, turno, setor) values (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+insert into gerente   (id, cpf, nome, salario, turno, setor) values (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:55:19 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into gerente   (id, cpf, nome, salario, turno, setor) values (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+insert into gerente   (id, cpf, nome, salario, turno, setor) values (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:56:49 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:56:50 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:56:51 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:56:52 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:56:53 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:56:53 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, cpf, nome, salario, turno, setor) VALUES  (1. '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:57:40 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:57:41 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:57:42 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:57:42 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:57:43 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]
+2022-10-13 14:57:43 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH[*]');"; SQL statement:
+INSERT INTO GERENTE   (id, CPF, nome, salario, turno, setor) VALUES  (1, '47455862130´, 'Raphael Pinheiro', 2500.0, 'Manhã', 'RH'); [42000-214]

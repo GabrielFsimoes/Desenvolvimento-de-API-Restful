@@ -1,0 +1,18 @@
+package br.org.serratec.backend.servicedto.config;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration;
+
+@Configuration
+public class ConfiSeguranca extends WebSecurityConfiguration{
+	
+	@Override
+	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
+	auth.inMemoryAuthentication()
+	.withUser("Baldjin")
+	.password("123456")
+	.roles("ADMIN");
+	}
+
+}
